@@ -16,4 +16,5 @@
     outputs; it is imperative that a robust, flexible and scalable
     technology be used which can detect frauds on the fly. Big
     data provides just the platform needed to perform analysis of
+    such high complexity.
  
