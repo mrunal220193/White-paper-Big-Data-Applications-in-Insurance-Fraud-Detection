@@ -1,5 +1,4 @@
 # Big Data Applications in Insurance Fraud Detection
-## title: Applications of Big Data in Fraud Detection in Insurance
 ## owner and author:
     name: Chaudhary, Mrunal L
     institution: Indiana University Bloomington
