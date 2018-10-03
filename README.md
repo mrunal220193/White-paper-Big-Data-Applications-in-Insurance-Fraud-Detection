@@ -1,9 +1,9 @@
 # Big Data Applications in Insurance Fraud Detection
 ## title: Applications of Big Data in Fraud Detection in Insurance
 ## owner and author:
-    ###### name: Chaudhary, Mrunal L
-    ###### institution: Indiana University Bloomington
-    ###### url: https://github.com/mrunal220193/White-paper-Big-Data-Applications-in-Insurance-Fraud-Detection
+    name: Chaudhary, Mrunal L
+    institution: Indiana University Bloomington
+    url: https://github.com/mrunal220193/White-paper-Big-Data-Applications-in-Insurance-Fraud-Detection
 ## abstract: 
     Insurance companies today are incurring a loss in billions of
     dollars every year because of frauds happening in filing
