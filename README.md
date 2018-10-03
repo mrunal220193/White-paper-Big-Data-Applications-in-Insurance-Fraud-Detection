@@ -5,7 +5,7 @@ owner:
     institution: Indiana University Bloomington
     url: https://github.com/mrunal220193/White-paper-Big-Data-Applications-in-Insurance-Fraud-Detection
 paper1:
-    abstract:
+    abstract: >
         Insurance companies today are incurring a loss in billions of
         dollars every year because of frauds happening in filing
         claims, paying premiums, filling applications etc. Detecting
